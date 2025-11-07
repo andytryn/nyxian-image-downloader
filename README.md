@@ -67,8 +67,8 @@ This project uses [Nyxian](https://github.com/ProjectNyxian/Nyxian) for deployme
 
 ## Screenshots
 
-![Screenshot 1](Screenshots/1.png)
-![Screenshot 2](Screenshots/2.png)
+![Screenshot 1](Screenshots/1.PNG)
+![Screenshot 2](Screenshots/2.PNG)
 
 ## Usage
 
