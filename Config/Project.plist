@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LDEBundleIdentifier</key>
+	<string>com.example.file</string>
+	<key>LDEBundleInfo</key>
+	<dict/>
+	<key>LDEBundleShortVersion</key>
+	<string>1.0</string>
+	<key>LDEBundleVersion</key>
+	<string>1.0</string>
+	<key>LDECompilerFlags</key>
+	<array>
+		<string>-fobjc-arc</string>
+	</array>
+	<key>LDEDisplayName</key>
+	<string>File</string>
+	<key>LDEExecutable</key>
+	<string>File</string>
+	<key>LDELinkerFlags</key>
+	<array>
+		<string>-ObjC</string>
+		<string>-lc</string>
+		<string>-lc++</string>
+		<string>-framework</string>
+		<string>Foundation</string>
+		<string>-framework</string>
+		<string>UIKit</string>
+		<string>-framework</string>
+		<string>QuartzCore</string>
+		<string>-framework</string>
+		<string>WebKit</string>
+	</array>
+	<key>LDEMinimumVersion</key>
+	<string>17.0</string>
+	<key>LDEProjectType</key>
+	<integer>1</integer>
+</dict>
+</plist>

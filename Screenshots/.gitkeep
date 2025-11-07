@@ -1,0 +1,10 @@
+# Screenshots
+
+Place your app screenshots in this folder.
+
+Recommended naming convention:
+- `main-screen.png` - Main screen with input field
+- `image-display.png` - Screen showing downloaded images
+- `cache-view.png` - Screen showing cached images
+- `html5-view.png` - Screen showing HTML5 image display
+
